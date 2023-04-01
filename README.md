@@ -1,5 +1,5 @@
 # Food Finder API
-This is an ASP.NET Core API for the Food Finder web application. The API allows users to search for meals and recipes that do not contain ingredients that they are allergic to.
+This is an ASP.NET Core API for the Food Finder web application. The API allows users to search for meals that do not contain ingredients that they are allergic to.
 
 # Getting Started
 To get started with the Food Finder API, follow these steps:
