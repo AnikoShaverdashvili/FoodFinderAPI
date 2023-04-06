@@ -35,21 +35,3 @@ IngredientController - Provides endpoints for working with ingredients in the da
 UserController - Provides endpoints for working with users in the database.
 UserAllergyController - Provides endpoints for working with user allergies in the database.
 
-# Dependencies
-The Food Finder API uses the following dependencies:
-
-Microsoft.AspNetCore.Mvc - A framework for building APIs with ASP.NET Core.
-Microsoft.EntityFrameworkCore - An ORM for working with databases in ASP.NET Core.
-Microsoft.EntityFrameworkCore.Sqlite - A SQLite provider for the Entity Framework Core.
-Microsoft.EntityFrameworkCore.Design - Design-time support for Entity Framework Core.
-
-# Contributing
-If you would like to contribute to the Food Finder API, please create a pull request with your proposed changes. Before submitting your pull request, please make sure that your code meets the following criteria:
-
-Your code follows the existing code style.
-Your code does not introduce any new bugs or regressions.
-Your code includes unit tests that cover any new functionality.
-
-
-# License
-The Food Finder API is released under the MIT License. See LICENSE.txt for more information.
